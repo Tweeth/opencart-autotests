@@ -1,0 +1,21 @@
+{
+  "name": "opencart-autotests",
+  "version": "1.0.0",
+  "description": "\"# opencart-autotests\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tweeth/opencart-autotests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tweeth/opencart-autotests/issues"
+  },
+  "homepage": "https://github.com/Tweeth/opencart-autotests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
